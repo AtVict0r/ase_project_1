@@ -16,7 +16,7 @@ body {
     display: flex;
     text-align: center;
     justify-content: center;
-    padding-top: 30px;
+    padding-top: 10px;
     font-size: 35px;
     width: 70%;
     margin-top: 40px;
@@ -142,4 +142,38 @@ input::target-text {
     border: none;
     background-color: blueviolet;
     color: white;
+}
+
+/* HERO SECTION */
+.hero-section {
+    height: 100vh;
+    color: white;
+    background: url('./images/26afbfd6f4b0f7d2c0352d2c78f559db.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-section div {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.hero-section div#hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    padding: 20vh 0 0 20%;
+    height: 100vh;
+}
+
+.hero-section p#tagline {
+    font-size: 18px;
+}
+
+.hero-section p#catchphrase {
+    font-size: 6rem;
+    font-weight: 500;
 }
