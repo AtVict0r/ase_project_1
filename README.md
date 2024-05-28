@@ -28,6 +28,7 @@ Project 1/images/icons
 
 ## Submission
 Submit your project through GitHub by **May 28th, 2024 @ 5:00pm**.
+![Screenshot_28-5-2024_172625_127 0 0 1](https://github.com/AtVict0r/ase_project_1/assets/58482668/0228a95e-8539-4ec4-a138-3fac0699f64a)
 
 ## Grading Criteria
 - Application of HTML, CSS, and JavaScript skills: **30%**
